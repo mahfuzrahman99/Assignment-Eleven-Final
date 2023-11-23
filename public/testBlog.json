@@ -1,0 +1,213 @@
+[
+    {
+      "title": "Espresso",
+      "image": "https://th.bing.com/th/id/OIP.cLgUxNF8eljza6H1GqNYlQHaFj?pid=ImgDet&rs=1",
+      "description": "Espresso, the essence of Italian coffee culture, is a concentrated brew that epitomizes the purest form of coffee. This extraordinary coffee is crafted by subjecting a modest quantity of almost-boiling water through finely-ground coffee beans, achieving a bold and intense flavor in a matter of seconds. The result is a shot of espresso that is rich, aromatic, and full-bodied, highlighting the distinct qualities of the coffee beans with unparalleled precision. Espresso forms the base for a variety of coffee beverages and is often savored on its own, appreciated for its immediate caffeine impact and deep, complex flavor. It serves as the foundation for creative coffee artistry, offering an endless canvas for customized coffee experiences. Whether enjoyed as a quick morning pick-me-up or a moment of coffee connoisseurship, espresso remains a cherished and timeless choice for those who value the unadulterated essence of coffee.",
+      "coffee_type": "Espresso",
+      "publish_date" : "04/29/2021"
+    },
+    {
+      "title": "Cappuccino",
+      "image": "https://th.bing.com/th/id/OIP.zBhnw1zH8lnSABXPCORfQgHaEK?pid=ImgDet&rs=1",
+      "description": "Cappuccino, an iconic Italian coffee creation, is revered for its artful combination of espresso, steamed milk, and a frothy layer of milk foam. This coffee masterpiece is celebrated for its balance, blending the bold intensity of espresso with the velvety richness of steamed milk, topped by a crown of airy foam. The name 'cappuccino' is derived from the Capuchin friars' brown robes, which the drink's color is said to resemble. Cappuccinos offer a harmonious contrast of flavors and textures, allowing the coffee's character to shine while the milk adds a luxurious creaminess. This beverage is a versatile canvas for creative variations, often garnished with cocoa, cinnamon, or flavored syrups, providing an array of delightful choices for coffee enthusiasts. Whether enjoyed as a morning ritual or an afternoon pick-me-up, cappuccinos remain a timeless and beloved choice for those who appreciate the exquisite union of coffee and milk.",
+      "coffee_type": "Cappuccino",
+      "publish_date" : "05/29/2021"
+    },
+    {
+      "title": "Latte",
+      "image": "https://th.bing.com/th/id/OIP.ZPVdOEC-YwJrh2puzOOgZwHaE8?pid=ImgDet&rs=1",
+      "description": "A latte, a cherished coffee classic, combines the robust essence of espresso with a generous serving of steamed milk. This harmonious blend results in a creamy and comforting coffee drink. A defining characteristic of a latte is the frothy milk foam that crowns the beverage, adding a velvety texture and a touch of elegance. The word 'latte' itself means 'milk' in Italian, underscoring the significance of milk in this concoction. Lattes offer a balanced caffeine fix and are renowned for their versatility, often flavored with syrups, spices, or served iced. This adaptability makes lattes a beloved choice among coffee enthusiasts, catering to a wide range of preferences and moods. Whether enjoyed as a soothing morning ritual or a midday indulgence, lattes remain a timeless and comforting option for those who savor the soothing embrace of coffee and milk.",
+      "coffee_type": "Latte",
+      "publish_date" : "07/29/2021"
+    },
+    {
+      "title": "Americano",
+      "image": "https://th.bing.com/th/id/OIP.pOTikkX29urEwmYz04F8dQHaHa?pid=ImgDet&rs=1",
+      "description": "An Americano, a popular coffee variation, is distinguished by its simplicity and versatility. It's prepared by diluting a shot of espresso with hot water, creating a beverage that approximates the strength of drip coffee. This method not only offers a caffeine boost but also showcases the bold and concentrated flavors of espresso. The addition of hot water allows for a nuanced and customizable coffee experience, as the strength can be adjusted to suit personal preferences. Americanos are favored for their ability to deliver a quick yet satisfying caffeine fix, making them a go-to choice for those who appreciate the straightforward marriage of espresso's intensity with the comforts of a hot cup of coffee. Whether savored in the morning to kickstart the day or as a respite during an afternoon break, Americanos are celebrated for their capacity to deliver a familiar yet potent coffee experience with a touch of personalization.",
+      "coffee_type": "Americano",
+      "publish_date" : "08/30/2021"
+    },
+    {
+      "title": "French Press",
+      "image": "https://th.bing.com/th/id/OIP.cOqqtq5KXsSagxToG23XTgHaF7?pid=ImgDet&w=886&h=710&rs=1",
+      "description": "French press coffee, a classic and beloved brewing method, relies on a straightforward yet effective process. Coarsely ground coffee beans are steeped in hot water, allowing the grounds to mingle and infuse their flavors. After the brewing period, a metal or plastic plunger is pressed down through a mesh screen, separating the grounds from the liquid. What remains is a rich, full-bodied coffee that captures the essence of the beans. This method preserves the coffee's natural oils and sediments, resulting in a brew that is robust and textured. French press coffee enthusiasts appreciate its versatility, enabling customization of grind size and steeping time to create a range of flavor profiles. This technique is more than just a brewing method; it's an art that offers a tactile and sensory experience, making it a cherished choice for those who value depth and control in their coffee. Whether enjoyed as a morning ritual or a leisurely afternoon brew, French press coffee provides a genuine and flavorful coffee experience.",
+      "coffee_type": "French Press",
+      "publish_date" : "08/25/2021"
+    },
+    {
+      "title": "Pour-Over",
+      "image": "https://th.bing.com/th/id/OIP.8gNh1GutpHoMhclw9oXG3QHaGC?pid=ImgDet&rs=1",
+      "description": "Pour-over coffee, a revered brewing method, is celebrated for its ability to deliver a clean and precise coffee experience. This technique involves manually pouring hot water over coffee grounds, which are held in a filter or dripper. The method allows for meticulous control of the brewing process, ensuring that water flows evenly through the coffee, extracting the full range of flavors and aromas. This deliberate and attentive approach results in a cup of coffee that is notably free of sediment and impurities, highlighting the intrinsic qualities of the coffee beans. Pour-over coffee is known for its versatility, accommodating various grind sizes and coffee types, making it a favorite for coffee connoisseurs seeking the utmost clarity and balance in their brew. The process's beauty lies in its simplicity and the profound impact it has on the final cup – one that offers a refined and nuanced coffee experience. Whether enjoyed as a meditative morning ritual or a quick and precise caffeine fix, pour-over coffee remains a timeless choice for those who appreciate the art of coffee making.",
+      "coffee_type": "Pour-Over",
+      "publish_date" : "08/31/2021"
+    },
+    {
+      "title": "Cold Brew",
+      "image": "https://th.bing.com/th/id/OIP.OwQuX7BnKEt0ah60rPgrqAHaE8?pid=ImgDet&rs=1",
+      "description": "Cold brew coffee, a cherished creation, offers a distinct and refreshing take on the classic beverage. It is crafted by steeping coarsely ground coffee beans in cold water for an extended period, often ranging from 12 to 24 hours. This unhurried process allows for a gentle extraction of flavors, resulting in a coffee that is notably smoother and less acidic than its hot-brewed counterpart. The cold brewing method retains the coffee's natural sweetness, highlighting its nuanced flavors without the bite of acidity. The end result is a concentrated coffee concentrate that can be diluted with water or milk and served over ice, providing a cool and invigorating caffeine fix. Cold brew coffee has become a summer staple, celebrated for its mellow and refreshing taste that appeals to both coffee aficionados and those seeking a chilled pick-me-up. Its versatility, adaptability, and ability to showcase coffee's inherent characteristics make it a beloved option for coffee enthusiasts yearning for a cooler and more mellow coffee experience",
+      "coffee_type": "Cold Brew",
+      "publish_date" : "08/14/2021"
+    },
+    {
+      "title": "Mocha",
+      "image": "https://th.bing.com/th/id/OIP.zcTgbFx5pJS--cdMAE-c0gHaFj?pid=ImgDet&rs=1",
+      "description": "A mocha, a delightful marriage of coffee and chocolate, is a beverage that enchants the taste buds with its rich and sweet flavor profile. This coffee creation blends a shot of espresso with steamed milk and chocolate, creating a harmonious trinity of flavors. The espresso provides a robust and aromatic base, while the steamed milk imparts a creamy and velvety texture. The addition of chocolate, in the form of cocoa powder or syrup, introduces a delightful sweetness and a distinct chocolatey richness, transforming the beverage into a decadent treat. Mochas are often crowned with a dollop of whipped cream, further enhancing the indulgence. This combination of coffee and chocolate offers a comforting and satisfying experience, making mochas a beloved choice for those who crave the perfect fusion of caffeine and cocoa in their cup. Whether served hot or iced, mochas are a perennial favorite, providing a delightful respite for the discerning coffee lover.",
+      "coffee_type": "Mocha",
+      "publish_date" : "08/24/2021"
+    },
+    {
+      "title": "Turkish Coffee",
+      "image": "https://th.bing.com/th/id/OIP.yhKETRqUW1dIGxa4Aqz1egHaE7?pid=ImgDet&rs=1",
+      "description": "Turkish coffee, a time-honored brewing tradition, is a method of preparing coffee that stands as a testament to centuries of rich history and culture. This technique involves the meticulous blending of very finely-ground coffee beans, cold water, and, if desired, sugar. The mixture is brought to a gentle boil in a small pot known as a This slow and deliberate brewing process allows the coffee to develop a distinctive and robust flavor. The result is a thick, unfiltered, and concentrated coffee that embodies the essence of the beans. Turkish coffee is served in small cups, often accompanied by a glass of water, and is a symbol of hospitality, social bonding, and tradition. It offers an aromatic and intense coffee experience that transcends time, allowing enthusiasts to savor the rich tapestry of flavors and the profound cultural significance associated with each cup. .",
+      "coffee_type": "Turkish Coffee",
+      "publish_date" : "08/19/2021"
+    },
+    {
+      "title": "Iced Coffee",
+      "image": "https://th.bing.com/th/id/OIP.lkUeEY6-dTaDvOFiSgX-ewHaE6?pid=ImgDet&rs=1",
+      "description": "Iced coffee, a beloved warm-weather refreshment, offers a delightful twist on traditional coffee. It's a versatile beverage that can be prepared through a variety of brewing methods, including cold brew, pour-over, or even by simply cooling down a regular brewed coffee. The key is to serve it over a generous amount of ice, instantly transforming the hot brew into a chilled, invigorating treat. Iced coffee provides a refreshing caffeine boost while allowing the coffee's flavors to shine through, creating a harmonious balance between the brisk coolness of the ice and the rich, aromatic coffee. Whether sweetened with syrups or served black, iced coffee is a customizable and universally cherished option for staying cool and caffeinated during the hot months. Its adaptability and ability to showcase different coffee profiles make it a sought-after choice for coffee lovers seeking a rejuvenating and ice-cold coffee experience.",
+      "coffee_type": "Iced Coffee",
+      "publish_date" : "08/29/2021"
+    },
+    {
+      "title": "Ristretto",
+      "image": "https://th.bing.com/th/id/R.8418edc71ca68d2726d0d641371bf3e8?rik=0k8l5HLd%2fF62gA&pid=ImgRaw&r=0",
+      "description": "Ristretto, an Italian coffee gem, is an intensified version of espresso, renowned for its bold and concentrated flavor profile. It is crafted by using less water than traditional espresso, resulting in a shot that is shorter in volume but packed with an even greater intensity of coffee essence. The reduced water exposure highlights the most profound and exquisite qualities of the coffee beans, creating a brew that is often described as robust, full-bodied, and deeply flavorful. This succinct extraction process ensures that only the finest flavors and aromas are captured, while harsh or bitter elements are left behind. Ristretto is a preferred choice for those who seek a quick yet powerful caffeine kick and a coffee experience that's undeniably rich and refined. Its shorter preparation time and the purity of its flavor make it a beloved option for coffee enthusiasts looking for a more concentrated coffee experience without compromise",
+      "coffee_type": "Ristretto",
+      "publish_date" : "04/21/2023"
+    },
+    {
+      "title": "Affogato",
+      "image": "https://th.bing.com/th/id/OIP.casTTDe4MmTt3t_zVRFB9wHaE5?pid=ImgDet&rs=1",
+      "description": " An affogato is a delightful and indulgent dessert that marries the intense, aromatic qualities of hot espresso with the luscious creaminess of vanilla ice cream or gelato. This Italian creation is a true masterpiece of simplicity and contrast, creating a harmony of flavors and temperatures. The espresso, typically prepared as a short and robust shot, is poured directly over a generous scoop of ice cream, creating a delightful collision of hot and cold. As the espresso cascades over the ice cream, it begins to melt the dessert, forming a harmonious union of rich coffee and sweet, velvety cream. The affogato is a beloved treat, celebrated for its ability to provide both a caffeine kick and a dessert experience, making it a favorite for those who appreciate the art of contrast in flavors and textures. Whether enjoyed as an after-dinner indulgence or a midday pick-me-up, the affogato is a testament to the delectable synergy of coffee and ice cream.",
+      "coffee_type": "Affogato",
+      "publish_date" : "04/29/2022"
+    },
+    {
+      "title": "AeroPress",
+      "image": "https://th.bing.com/th/id/OIP.UNy7HN5Jqm_18T_FlAjrWAHaHa?pid=ImgDet&rs=1",
+      "description": " The AeroPress, a marvel of manual coffee-making, is celebrated for its ability to craft a robust and velvety cup of coffee with remarkable efficiency. Using a combination of air pressure and a swift brewing process, it produces a remarkably strong yet smooth coffee. This device operates through a simple yet innovative method: coffee grounds are steeped in hot water and, with the aid of air pressure, swiftly forced through a micro-filter, effectively extracting the full flavor potential in a matter of seconds. The result is a cup of coffee that strikes a harmonious balance between strength and smoothness, delighting both coffee enthusiasts and those seeking a quick yet high-quality caffeine fix. The AeroPress's compact design, ease of use, and consistent results have made it a favorite among coffee lovers, while its portability makes it an excellent choice for on-the-go brewing, ensuring that a great cup of coffee is always within reach.",
+      "coffee_type": "AeroPress",
+      "publish_date" : "2/29/2023"
+    },
+    {
+      "title": "Chemex",
+      "image": "https://th.bing.com/th/id/OIP.qjSW7Efjw8Uze4GmFgpy4AHaHa?pid=ImgDet&rs=1",
+      "description": "The Chemex is renowned for its timeless and elegant design, making it an icon in the world of coffee makers. Its classic hourglass shape and wooden collar not only make it a functional brewing device but also a work of art that graces many kitchen countertops. Beyond its aesthetics, the Chemex is celebrated for its ability to produce a remarkably clean and crisp coffee. The thick paper filter used in the Chemex effectively removes sediments and oils, resulting in a cup that showcases the true essence of the coffee beans. This pour-over method, combined with the Chemex's brilliance, has made it a preferred choice for those who appreciate the pure and unadulterated flavors in their coffee. Whether you're a coffee connoisseur or simply seeking a visually pleasing and top-quality brew, the Chemex continues to enchant coffee enthusiasts worldwide",
+      "coffee_type": "Chemex",
+      "publish_date" : "04/01/2023"
+    },
+    {
+      "title": "Vietnamese Coffee",
+      "image": "https://th.bing.com/th/id/OIP.hCS2By64YpPPe5gO6f0VzgHaFj?pid=ImgDet&rs=1",
+      "description": "Vietnamese coffee is a beloved beverage characterized by strong, dark coffee gently poured over a layer of sweetened condensed milk. The contrasting flavors create a delightful harmony, making it a popular choice in Vietnam and beyond. Often served over ice, the hot coffee and sweet milk interact with the cold temperature, resulting in a refreshing and invigorating experience. This iced version, known as 'cà phê sữa đá,' offers a perfect blend of bitterness, sweetness, and a chilling sensation, making it an ideal choice to combat the country's warm climate. Vietnamese coffee is more than a drink; it's a cultural symbol, representing the art of balancing flavors and temperatures. Its unique profile has earned it a special place in the hearts of coffee enthusiasts worldwide.",
+      "coffee_type": "Vietnamese Coffee",
+      "publish_date" : "04/02/2023"
+    },
+    {
+      "title": "Machiatto",
+      "image": "https://th.bing.com/th/id/OIP.50G1dDzJhHvVWGjrlYGmeAHaE6?pid=ImgDet&rs=1",
+      "description": "A macchiato, derived from the Italian word 'macchiare,' meaning 'to stain' or 'to mark,' is a coffee creation that beautifully embodies the concept of simplicity and balance. This elegant and straightforward coffee beverage consists of a single shot of espresso 'stained' or 'marked' with a small amount of frothy milk or milk foam. The art of the macchiato lies in the precise harmony between the intense and concentrated essence of the espresso and the subtle creaminess of the milk. The coffee forms the base, offering a bold and robust flavor, while the milk foam, which can be either steamed or cold, adds a touch of silkiness and sweetness, effectively tempering the espresso's strength.",
+      "coffee_type": "Machiatto",
+      "publish_date" : "04/11/2023"
+    },
+    {
+      "title": "Irish Coffee",
+      "image": "https://th.bing.com/th/id/OIP.kkNJjJvSFzcwRQq3QPT3YgHaIg?pid=ImgDet&rs=1",
+      "description": "Irish coffee, a beloved and indulgent cocktail, seamlessly combines two of life's greatest pleasures: coffee and whiskey. This classic drink is a harmonious fusion of piping hot coffee, rich Irish whiskey, sugar, and a lavish crown of whipped cream, resulting in a satisfying and complex flavor experience.The preparation of Irish coffee is a well-orchestrated process. It begins with a base of robust and freshly brewed hot coffee, served in a preheated glass to maintain its temperature. A generous shot of Irish whiskey, classically using brands like Jameson or Bushmills, is carefully added. A spoonful of sugar is then dissolved into the blend, enhancing the sweetness and complexity of the drink..",
+      "coffee_type": "Irish Coffee",
+      "publish_date" : "04/12/2023"
+    },
+    {
+      "title": "Pour-Over",
+      "image": "https://cdn.notonthehighstreet.com/fs/8d/2f/dd6f-9f70-4235-be36-303bf0d4fa7c/original_pour-over-coffee-drip-brewer.jpg",
+      "description": "Pour-over coffee is a revered brewing method celebrated for its purity and exceptional clarity of flavor. This technique is an embodiment of the art and science of coffee preparation, elevating the experience by manually pouring hot water over coffee grounds in a filter.To create pour-over coffee, one begins with fresh, coarsely ground coffee beans placed in a paper or metal filter positioned atop a receptacle. The water is heated to a precise temperature, often between 195-205°F (90-96°C), ensuring that it is not too hot to scorch the coffee or too cold to under-extract. The brewing process commences with a gentle 'bloom,' a pre-wetting of the coffee grounds to release trapped gases. Then, water is poured steadily and in concentric circles, allowing it to percolate through the grounds and drip into the vessel below.",
+      "coffee_type": "Pour-Over",
+      "publish_date" : "04/18/2023"
+    },
+    {
+      "title": "Turkish Coffee",
+      "image": "https://th.bing.com/th/id/R.0c008575c0a9d2b2ad91c3c74a81619b?rik=wrNlFYg%2b4aWNtQ&riu=http%3a%2f%2fwww.canaangardens.com%2fwp-content%2fuploads%2f2018%2f06%2fTurkish-Coffee-.jpg&ehk=jW%2fVGpOYNYiG0EJIQM4z3KdoubyNjQY1iLXkesQgMaY%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1",
+      "description": "Turkish coffee, a timeless and cherished brewing method, encapsulates the rich heritage and deep-rooted traditions of the Middle East and Eastern Europe. This centuries-old technique involves meticulously grinding the coffee beans to an exceptionally fine powder, creating a silky, sediment-rich brew that's unlike any other coffee experience.Turkish coffee, a timeless and cherished brewing method, encapsulates the rich heritage and deep-rooted traditions of the Middle East and Eastern Europe. This centuries-old technique involves meticulously grinding the coffee beans to an exceptionally fine powder, creating a silky, sediment-rich brew that's unlike any other coffee experience.",
+      "coffee_type": "Turkish Coffee",
+      "publish_date" : "01/29/2023"
+    },
+    {
+      "title": "Cuban Coffee",
+      "image": "https://th.bing.com/th/id/R.2ecc76892a6388f9877ccf6fd1b659af?rik=jbNB4gqbpshUiw&pid=ImgRaw&r=0",
+      "description": "Cuban coffee, celebrated for its bold and sweet character, stands as a cherished drink that mirrors the very spirit of Cuban culture. This potent elixir delivers an intense flavor experience with a subtle touch of sweetness, served in small cups that carry the weight of tradition and community bonds. It's more than a beverage; it's a cultural cornerstone that brings people together, offering a taste of Cuban warmth and togetherness in every precious sip.",
+      "coffee_type": "Cuban Coffee",
+      "publish_date" : "02/06/2023"
+    },
+    {
+      "title": "Red Eye",
+      "image": "https://th.bing.com/th/id/OIP.4VjcTK4n-pqx3Lh2Rcn_bwAAAA?pid=ImgDet&rs=1",
+      "description": " A Red Eye a caffeinated concoction for those who seek an extra kick in their coffee combines the best of both worlds - the boldness of espresso and the familiarity of drip coffee. This innovative coffee drink is a favorite among those who crave a potent caffeine jolt to kickstart their day. To craft a Red Eye, one begins with a classic cup of drip coffee, typically brewed to a comfortable and mild strength. Then, a single, robust shot of espresso is added, transforming the ordinary coffee into an extraordinary elixir. This infusion instantly elevates the caffeine content, creating a powerhouse of energy.",
+      "coffee_type": "Red Eye",
+      "publish_date" : "04/15/2023"
+    },
+    {
+      "title": "Mazagran",
+      "image": "https://th.bing.com/th/id/OIP.1C7O6klJ5-2hV5tuRQU4TAHaFj?pid=ImgDet&rs=1",
+      "description": "Mazagran, hailing from Algeria, has emerged as a beloved coffee variant, captivating the palates of coffee enthusiasts in Europe and beyond. This delightful concoction offers a cool and invigorating take on traditional coffee, making it a sought-after option for those craving a refreshing caffeine fix. Its combination of coffee and citrus elements provides a unique and zesty flavor profile, while its chilled nature offers respite during warm weather. As this trend continues to grow, Mazagran remains a flavorful and energizing choice for those looking to break from convention in their coffee experience.",
+      "coffee_type": "Mazagran",
+      "publish_date" : "04/22/2023"
+    },
+    {
+      "title": "Gibraltar",
+      "image": "https://th.bing.com/th/id/R.92648ac20b2c96d565d7f94e6bd33d91?rik=N%2fk6Q5p1GjD5xw&pid=ImgRaw&r=0",
+      "description": "A Gibraltar, also occasionally referred to as a 'Cortado' or 'Gibraltino,' is a coffee connoisseur's delight, renowned for its bold and robust flavor. Its defining feature lies in its elegant simplicity, achieved through the meticulous balance of a shot of espresso and a measured, small quantity of milk. The outcome is a concentrated coffee sensation that masterfully combines the rich, intense essence of espresso with the silky, creamy notes of milk. This harmonious marriage of flavors makes the Gibraltar a truly unique coffee experience, where the coffee's strength isn't compromised by an excessive amount of milk, yet the creamy touch adds a smooth dimension. Originating in some coffee-loving corners of the world, this beverage has found its way into the hearts of those seeking a perfect equilibrium between espresso's boldness and the velvety allure of milk, making it a favored choice for those in pursuit of a refined coffee taste.",
+      "coffee_type": "Gibraltar",
+      "publish_date" : "04/24/2023"
+    },
+    {
+      "title": "Dalgona Coffee",
+      "image": "https://th.bing.com/th/id/R.ca71bd35a4a0474a67cdba0384b77fe2?rik=2M1z2iDIw7IOIQ&pid=ImgRaw&r=0",
+      "description": "Dalgona coffee, a South Korean favorite, is a delectable coffee creation that has gained global acclaim. It features a rich, velvety whipped coffee topping over a glass of milk, offering both a delightful taste and an aesthetically pleasing presentation. To make it, mix equal parts instant coffee, sugar, and hot water, whip the mixture until it forms a creamy foam, and spoon it over a glass of cold milk. The result is a sweet and slightly bitter coffee delight, perfect for coffee aficionados and anyone looking for a trendy and Instagram-worthy caffeine fix.",
+      "coffee_type": "Dalgona Coffee",
+      "publish_date" : "04/25/2023"
+    },
+    {
+      "title": "Cascara",
+      "image": "https://th.bing.com/th/id/R.e92dd94a4233c9efa6351c833267517e?rik=Nto3lEx0NkynUQ&pid=ImgRaw&r=0",
+      "description": "Cascara is an innovative and eco-friendly coffee byproduct crafted from the dried outer shells of coffee cherries. Traditionally, these cherry husks were discarded during coffee processing, but they have found a new purpose in the creation of this distinct beverage. To make cascara, the dried husks undergo a process similar to steeping tea – they are immersed in hot water. The result is a delightful infusion with fruity and tea-like qualities. This sustainable and flavorful coffee derivative has gained popularity among those interested in reducing waste and exploring alternative coffee experiences. Cascara offers a unique way to savor the essence of coffee cherries, providing a refreshing and naturally sweet drink that stands out from traditional coffee offerings. Its journey from discarded waste to a sought-after beverage is a testament to the creativity and sustainability within the coffee industry.",
+      "coffee_type": "Cascara",
+      "publish_date" : "04/26/2023"
+    },
+    {
+      "title": "Egg Coffee",
+      "image": "https://th.bing.com/th/id/OIP.xneQf8gM6harGjT2SO8wTwHaGN?pid=ImgDet&rs=1",
+      "description": "Egg coffee, a cherished Vietnamese delicacy, is a captivating fusion of strong coffee, sweetened condensed milk, and a luscious froth created from egg yolks. This unique and indulgent drink has its roots in Hanoi and is often referred to as 'cà phê trứng.' To prepare egg coffee, one typically starts by brewing a robust cup of Vietnamese coffee using a drip method. Meanwhile, a mixture of egg yolks and sweetened condensed milk is whisked together until it achieves a creamy and frothy consistency.",
+      "coffee_type": "Egg Coffee",
+      "publish_date" : "04/27/2023"
+    },
+    {
+      "title": "Cafe au Lait",
+      "image": "https://th.bing.com/th/id/OIP.uJMVHSvyWoAxUSSuysM_ngHaFj?pid=ImgDet&rs=1",
+      "description": "Cafe au Lait, a timeless French coffee creation, harmoniously combines equal measures of hot milk and coffee. Often enjoyed as a breakfast staple, it exudes a creamy and gentle flavor profile that complements morning rituals, particularly when paired with delectable pastries. This classic beverage has a rich cultural heritage in France, where it is cherished for its comforting and soothing qualities. The balance between coffee and milk in a Cafe au Lait ensures a milder taste compared to a traditional black coffee, making it an approachable option for those who prefer a softer coffee experience. Its popularity as a morning pick-me-up has made it a beloved choice for starting the day with a touch of elegance and a dose of caffeine. Cafe au Lait continues to be a symbol of French cafe culture and the art of savoring coffee.",
+      "coffee_type": "Cafe au Lait",
+      "publish_date" : "04/28/2023"
+    },
+    {
+      "title": "Siphon Coffee",
+      "image": "https://th.bing.com/th/id/OIP.rovubobS4TNazLVxqbWXcwHaHa?pid=ImgDet&rs=1",
+      "description": "Siphon coffee, a distinctive brewing technique, relies on a vacuum pot to produce a one-of-a-kind coffee experience. This method is celebrated for its ability to yield a remarkably clean and highly aromatic coffee. What sets siphon coffee apart is its meticulous control over both brewing time and temperature, allowing for a level of precision rarely achieved in other brewing methods.The process involves two chambers – one for the coffee grounds and another for water. As the water is heated, it rises to the top chamber, creating a partial vacuum that draws the brewed coffee back down. This meticulous process captures the coffee's full flavor and aroma, resulting in a brew that's often described as crisp and bright. Siphon coffee's combination of technical finesse and the remarkable taste it delivers has made it a favorite among coffee enthusiasts seeking a truly unique and flavorful experience",
+      "coffee_type": "Siphon Coffee",
+      "publish_date" : "03/29/2023"
+    },
+    {
+      "title": "Lungo",
+      "image": "https://th.bing.com/th/id/OIP._0eDqr6Bcc-P8c5IJbvYnQHaE8?pid=ImgDet&rs=1",
+      "description": "Lungo, an espresso variant, shares a visual resemblance with its shorter counterpart but distinguishes itself by using more water, resulting in a smoother and extended shot. This coffee style offers a well-balanced and gratifying option for individuals who favor a milder coffee experience, as the additional water dilutes the intensity of the brew. The extended brewing process of Lungo allows for a more comprehensive extraction of the coffee's flavors, which yields a nuanced and less concentrated taste compared to a traditional espresso. This makes it an attractive choice for those who appreciate a less robust and more approachable coffee profile. Lungo is a versatile option that can be enjoyed as a standalone drink or as the base for various coffee-based beverages, catering to a wide range of coffee preferences.",
+      "coffee_type": "Lungo",
+      "publish_date" : "04/29/2023"
+    },
+    {
+      "title": "Cascara",
+      "image": "https://th.bing.com/th/id/R.e92dd94a4233c9efa6351c833267517e?rik=Nto3lEx0NkynUQ&pid=ImgRaw&r=0",
+      "description": "Cascara is an innovative and eco-friendly coffee byproduct crafted from the dried outer shells of coffee cherries. Traditionally, these cherry husks were discarded during coffee processing, but they have found a new purpose in the creation of this distinct beverage. To make cascara, the dried husks undergo a process similar to steeping tea – they are immersed in hot water. The result is a delightful infusion with fruity and tea-like qualities. This sustainable and flavorful coffee derivative has gained popularity among those interested in reducing waste and exploring alternative coffee experiences. Cascara offers a unique way to savor the essence of coffee cherries, providing a refreshing and naturally sweet drink that stands out from traditional coffee offerings. Its journey from discarded waste to a sought-after beverage is a testament to the creativity and sustainability within the coffee industry.",
+      "coffee_type": "Cascara",
+      "publish_date" : "04/26/2023"
+    }
+  ]
+  
